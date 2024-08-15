@@ -14,6 +14,7 @@ pip install -r requirements.txt
 ### Setup env variables
 Follow [Quickstart](https://developers.google.com/analytics/devguides/reporting/data/v1/quickstart-client-libraries#python_1)
 - Get all required values and add it to .env file.
+- Get all possible dimensions from [here](https://ga-dev-tools.google/ga4/dimensions-metrics-explorer/)
 
 ### Running script
 ```bash
